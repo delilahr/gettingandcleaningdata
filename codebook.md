@@ -1,5 +1,5 @@
 ##Code book of variables used in the run_analysis.R script, as required by the final project of the course Getting and Cleaning Data
-###Raw data obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+####Raw data obtained from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 subject
 	Identifier of one of 30 volunteers
